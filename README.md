@@ -3,10 +3,7 @@ I created a simple full stack website for our college club as a project. While b
 
 
 ### Demo
-Check out this website: 
-
-### About the project
-
+Check out this website: https://sankalp-mpgi.netlify.app/
 
 ### Technologies used
 * React 17.0.2
