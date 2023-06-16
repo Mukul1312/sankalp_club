@@ -2,6 +2,11 @@
 I created a simple full stack website for our college club as a project. While building this website I leaned  to work with different technologies simultaneously. 
 
 
+
+https://github.com/Mukul1312/sankalp_club/assets/84818958/cab741c9-6a1c-4535-a3c5-4ff1633ac468
+
+
+
 ### Demo
 Check out this website: https://sankalp-mpgi.netlify.app/
 
